@@ -19,7 +19,7 @@ var createPolitician = function(name, partyColor){
   // };
   //end test
 
-  politician.announcePolitician();
+  // politician.announcePolitician();
    //loop through electionResults array and total up the votes
   politician.tallyUpTotalVotes = function(){
     this.totalVotes = 0;
